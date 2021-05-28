@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Golam Sorawr](http://golamsorwar.com/)
 
 <br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=golam-sorwar.golam-sorwar)
